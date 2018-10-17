@@ -27,7 +27,3 @@ fixed, nor any support questions to be answered**.
 Likewise, I won't be updating any code here to match newer versions of Blazor. It's a one-time spike only.
 
 **Summary**: This is just a demo. Don't build real apps on top of this. But if you would be interested in building real Blazor+Electron apps, [tell us about your scenarios](https://github.com/aspnet/Blazor/issues/74).
-
-# Prebuilt packages
-
-For convenience, the `packages` directory contains prebuilt NuGet packages that support this sample. Sources for those packages are at http://github.com/SteveSandersonMS/BlazorElectronExperiment.Packages
