@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Blazor.Electron;
+﻿using Microsoft.AspNetCore.Components.Electron;
 
 namespace SampleApp
 {
@@ -6,7 +6,7 @@ namespace SampleApp
     {
         public static void Main(string[] args)
         {
-            BlazorElectron.Run<Startup>("wwwroot/index.html");
+            ComponentsElectron.Run<Startup>("wwwroot/index.html");
         }
     }
 }

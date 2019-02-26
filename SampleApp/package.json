@@ -1,5 +1,6 @@
 {
-  "name": "BlectronProto",
+  "name": "components-electron-sample",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
